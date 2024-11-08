@@ -155,7 +155,8 @@ int main() {
 
 
 ### 2.
-Screenshot 2024-09-27 122152
+![image](https://github.com/user-attachments/assets/2ae7e02b-cda0-4696-a0c9-30af4f25f330)
+
 
 ## Conclusion :
 Queues are fundamental data structures that operate on a first-in, first-out (FIFO) principle, allowing for efficient management of tasks and resources in various applications. They are crucial in computer science, telecommunications, and operations management, providing a systematic way to handle sequential data. By understanding the characteristics and behaviors of queues, such as enqueueing and dequeueing processes, we can optimize performance and ensure smoother operations in both software and real-world scenarios. Their versatility makes them invaluable for implementing algorithms and managing workflows effectively
