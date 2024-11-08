@@ -150,10 +150,11 @@ int main() {
 }
 ~~~
 ## Outputs :
-1.
-Screenshot 2024-09-27 122115
+### 1.
+![image](https://github.com/user-attachments/assets/bb6c0f9d-37fb-498a-9079-338ce413efba)
 
-2.
+
+### 2.
 Screenshot 2024-09-27 122152
 
 ## Conclusion :
